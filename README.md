@@ -5,4 +5,4 @@ when I read Dawkins' The Greatest Show On Earth as a kid I found the idea of rud
 
 currently all children in a generation are mutated clones of the selected parent, "mimicing" asexual reproduction. Will maybe implement 2-parent sexual reproduction in a future iteration, with recessive and dominant genes.
 
-11/09: mutation function highly unstable, trying to work around sudden explosions.
+11/09: mutation function highly unstable, trying to fix sudden explosions.
