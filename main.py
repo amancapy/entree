@@ -34,7 +34,7 @@ def select_for(treelist, keylist, increase=True):
             else:                                        # for s_h is much larger and would null any b_w contribution
                 keyval = tree[key] / 100
             ctsum += keyval
-        keyavgs += [ctsum / len(keylist)]
+        keyavgs.append(ctsum / len(keylist))
 
     foundavg = keyavgs[1]
     for i in range(1, len(keyavgs)):

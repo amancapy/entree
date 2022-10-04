@@ -14,7 +14,7 @@ for i in range(950, 1050):
         val = 10
         vals = []
         for k in range(10000):
-            vals += [round(val, 10)]
+            vals.append(round(val, 10))
             val = numpy.add(val, val * numpy.divide(numpy.random.choice([up, down]), 100))
 
         avg = numpy.average(vals)
