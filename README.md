@@ -1,5 +1,5 @@
 # entree
-**simulated artificial selection of rudimentary trees.**
+**simulated artificial selection of sexually reproducing rudimentary trees.**
 
 when I read Dawkins' The Greatest Show On Earth as a kid I found the idea of simple trees mutating and having traits selected for on a computer screen fascinating, so I wanted to have a go at it myself now that I know my way around code.
 
