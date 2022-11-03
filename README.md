@@ -11,4 +11,4 @@ currently all children in a generation are mutated clones of the selected parent
 
 12/09: mutation now completely stable (i'm not responsible if it still breaks color), added automatic selection for multiple attributes (except color), fixed exploding mutations with a lot of calculations (my laptop will never physically recover from this). oh also it doesn't crash now.
 
-project pretty much done, will revisit and salvage parts when I get around to 2-parent (se\*xual) reproduction.
+04/11: sexual reproduction implemented with OOP this time as opposed to the incomprehensible dict-list nightmare that was the asexual one, with a somewhat impressive (if i say so myself) reproduction function. 
