@@ -11,4 +11,4 @@ Timeline:
 
 12/09: mutation now completely stable, added automatic selection for multiple attributes (except color), fixed exploding mutations with help of a lot of calculation (my laptop will never physically recover from this). also it doesn't crash now.
 
-04/11: sexual reproduction implemented with OOP this time as opposed to the incomprehensible dict-list nightmare that was the asexual one, with a somewhat impressive (if i say so myself) reproduction function. 
+04/11: sexual reproduction implemented with OOP this time as opposed to the incomprehensible dict-list nightmare that was the asexual one. Project mostly complete save for visualizing the population.
